@@ -9,7 +9,8 @@ List of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/index.php?
 | ~~Speech Quality Assessment for Use in International Standardization~~ | Bachelor Thesis | Speech Signal Processing | L. C. |
 | ~~Developing a Python-based Speech Quality Database Generation Tool~~ | Master Thesis | Python, Speech Signal Processing | M. J. |
 | Developing Python Front-end for a MatLab Database Generation Tool | Bachelor, Master, Projekt Medienerstellung | Python, Speech Signal Processing | Available |
-| Speech Quality Prediction with Deep Learning | Bachelor, Master, Advanced Projects | Python (PyTorch), Speech Signal Processing | Available |
+| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available |
+| Investigating Gender Bias in Telecommunications Speech Quality Perception | Bachelor, Master | Statistics, Speech Signal Processing | Available |
 
 
 
