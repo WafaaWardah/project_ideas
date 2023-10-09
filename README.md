@@ -8,21 +8,21 @@ Machine learning, Deep learning, AI, Explainable AI (XAI), Speech signal process
 
 Competencies:
 
-Python programming, Mathematical (and Statistical) foundation, Scientific reporting, keenness to carry out a project well.
+Python programming, Mathematical (and Statistical) foundation, Scientific reporting, keenness to learn and carry out a project well.
 
 
 Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/index.php?id=34807), mainly for developing further as Masters or Bachelors theses at the [QU Lab](https://www.tu.berlin/en/qu), TU Berlin. These can also be turned into student group projects for courses offered by the QU Lab. If you are interested in any of these topics listed here or want to discuss an idea of your own, send me an email ([wafaa.wardah@tu-berlin.de](mailto:wafaa.wardah@tu-berlin.de)).
 
-| Title | Scope | Competencies | Availability |
-|-------------| -----|-------------| -----|
-| Developing Python Front-end for a MatLab Database Generation Tool | Bachelor, Master, Projekt Medienerstellung | Python, Speech Signal Processing | Available |
-| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available |
-| Investigating Gender Bias in Telecommunications Speech Quality Perception | Bachelor, Master | Statistics, Speech Signal Processing | Available |
-| ~~Benchmarking of Non-intrusive DNN Speech Quality Assessment Model~~ | Master Thesis | Python, Speech Signal Processing | S. K. |
-| ~~Speech Quality Assessment for Use in International Standardization~~ | Advanced Projects | Speech Signal Processing | Group of 6 |
-| ~~Crowdsourcing Speech Quality Assessment for Investigating Codec-Related Impairments~~ | Bachelor Thesis | Speech Signal Processing | J. S. |
-| ~~Speech Quality Assessment for Use in International Standardization~~ | Bachelor Thesis | Speech Signal Processing | L. C. |
-| ~~Developing a Python-based Speech Quality Database Generation Tool~~ | Master Thesis | Python, Speech Signal Processing | M. J. |
+| Title | Scope | Competencies | Availability | Date |
+|-------------| -----|-------------| -----| -----|
+| Developing Python Front-end for a MatLab Database Generation Tool | Bachelor, Master, Projekt Medienerstellung | Python, Speech Signal Processing | Available | Oct 2023
+| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Oct 2023 |
+| Investigating Gender Bias in Telecommunications Speech Quality Perception | Bachelor, Master | Statistics, Speech Signal Processing | Available | Oct 2023 |
+| ~~Benchmarking of Non-intrusive DNN Speech Quality Assessment Model~~ | Master Thesis | Python, Speech Signal Processing | S. K. | 2021 - 2022 |
+| ~~Speech Quality Assessment for Use in International Standardization~~ | Advanced Projects | Speech Signal Processing | Group of 6 | 2022 |
+| ~~Crowdsourcing Speech Quality Assessment for Investigating Codec-Related Impairments~~ | Bachelor Thesis | Speech Signal Processing | J. S. | 2023 |
+| ~~Speech Quality Assessment for Use in International Standardization~~ | Bachelor Thesis | Speech Signal Processing | L. C. | 2023 |
+| ~~Developing a Python-based Speech Quality Database Generation Tool~~ | Master Thesis | Python, Speech Signal Processing | M. J. | 2023 |
 
 
 
