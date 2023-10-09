@@ -15,6 +15,7 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 
 | Title | Scope | Competencies | Availability | Date |
 |-------------| -----|-------------| -----| -----|
+| Verifying reliability of a Database Generation Tool used for simulating audio signal degradations| Bachelor, Master, Projekt Medienerstellung | Matlab, Speech Signal Processing | Available | Oct 2023 |
 | Developing Python Front-end for a MatLab Database Generation Tool | Bachelor, Master, Projekt Medienerstellung | Python, Speech Signal Processing | Available | Oct 2023 |
 | Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Oct 2023 |
 | Investigating Gender Bias in Telecommunications Speech Quality Perception | Bachelor, Master | Statistics, Speech Signal Processing | Available | Oct 2023 |
