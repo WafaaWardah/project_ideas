@@ -15,8 +15,9 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 
 | Title | Scope | Competencies | Availability | Date |
 |-------------| -----|-------------| -----| -----|
+| Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions | DAGA | Speech Signal Processing | W. W. | Oct 2023 |
 | Crowdsource-based data for instrumental speech quality prediction| DAGA | Crowdsourcing, Speech Signal Processing | K. S. | Oct 2023 |
-| Comparing objective and subjective (Crowdsourced) Speech Quality Ratings| DAGA | Speech Signal Processing | Available | Oct 2023 |
+| Comparing objective and subjective (Crowdsourced) Speech Quality Ratings| Bachelor Thesis | Speech Signal Processing | Available | Oct 2023 |
 | Verifying reliability of a Database Generation Tool used for simulating audio signal degradations| Bachelor, Master, Projekt Medienerstellung | Matlab, Speech Signal Processing | Available | Oct 2023 |
 | Developing Python Front-end for a MatLab Database Generation Tool | Bachelor, Master, Projekt Medienerstellung | Python, Speech Signal Processing | Available | Oct 2023 |
 | Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Oct 2023 |
