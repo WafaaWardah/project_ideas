@@ -23,7 +23,7 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 | [Developing Python Front-end for a MatLab Database Generation Tool](https://github.com/WafaaWardah/PyGUI-DB) | Bachelor | Python, Speech Signal Processing | E. N. | Nov 2023 |
 | Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Oct 2023 |
 | [Investigating Gender Bias in Telecommunications Speech Quality Perception](https://github.com/WafaaWardah/gen_speech) | Bachelor | Statistics, Speech Signal Processing | A. C. | Nov 2023 |
-| Speech Quality Assessment for Use in International Standardization | Bachelor Thesis | Speech Signal Processing | L. C. | 2023 |
+| ~~Speech Quality Assessment for Use in International Standardization~~ | Bachelor Thesis | Speech Signal Processing | L. C. | 2023 |
 | ~~Crowdsourcing Speech Quality Assessment for Investigating Codec-Related Impairments~~ | Bachelor Thesis | Speech Signal Processing | J. S. | 2023 |
 | ~~Developing a Python-based Speech Quality Database Generation Tool~~ | Master Thesis | Python, Speech Signal Processing | M. J. | 2023 |
 | ~~Speech Quality Assessment for Use in International Standardization~~ | Advanced Projects | Speech Signal Processing | Group of 6 | 2022 |
