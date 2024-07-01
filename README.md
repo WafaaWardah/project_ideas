@@ -15,13 +15,13 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 
 | Title | Scope | Competencies | Availability | Date |
 |-------------| -----|-------------| -----| -----|
-| [Subjective Listening Only Test for Speech Quality Database Creation](https://github.com/WafaaWardah/SLOTest_2023) | Advanced Projects, ITU-T | Subjective Testing, Speech Signal Processing | Group of 6 | Oct 2023 |
-| [Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions](https://github.com/WafaaWardah/dissecting_speech_quality_dimensions) | DAGA | Speech Signal Processing | W. W. | Oct 2023 |
-| Crowdsource-based data for instrumental speech quality prediction| DAGA | Crowdsourcing, Speech Signal Processing | K. S. | Oct 2023 |
-| Comparing objective and subjective (Crowdsourced) Speech Quality Ratings| Bachelor Thesis | Speech Signal Processing | Available | Oct 2023 |
-| Verifying reliability of a Database Generation Tool used for simulating audio signal degradations| Bachelor, Master, Projekt Medienerstellung | Matlab, Speech Signal Processing | Available | Oct 2023 |
-| [Developing Python Front-end for a MatLab Database Generation Tool](https://github.com/WafaaWardah/PyGUI-DB) | Bachelor | Python, Speech Signal Processing | E. N. | Nov 2023 |
-| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Oct 2023 |
+| Effect of languages on speech quality prediction models| Bachelor Thesis | Speech Signal Processing | Available | Aug 2024 |
+| Comparing objective and subjective (Crowdsourced) Speech Quality Ratings| Bachelor Thesis | Speech Signal Processing | Available | Aug 2024 |
+| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Aug 2024 |
+| Verifying reliability of a Database Generation Tool used for simulating audio signal degradations| Bachelor, Master, Projekt Medienerstellung | Matlab, Speech Signal Processing | Available | Aug 2024 |
+| ~~[Subjective Listening Only Test for Speech Quality Database Creation](https://github.com/WafaaWardah/SLOTest_2023)~~ | Advanced Projects, ITU-T | Subjective Testing, Speech Signal Processing | Group of 6 | Oct 2023 |
+| ~~[Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions](https://github.com/WafaaWardah/dissecting_speech_quality_dimensions)~~| DAGA | Speech Signal Processing | W. W. | Oct 2023 |
+| ~~[Developing Python Front-end for a MatLab Database Generation Tool](https://github.com/WafaaWardah/PyGUI-DB)~~ | Bachelor | Python, Speech Signal Processing | E. N. | Nov 2023 |
 | [Investigating Gender Bias in Telecommunications Speech Quality Perception](https://github.com/WafaaWardah/gen_speech) | Bachelor | Statistics, Speech Signal Processing | A. C. | Nov 2023 |
 | ~~Speech Quality Assessment for Use in International Standardization~~ | Bachelor Thesis | Speech Signal Processing | L. C. | 2023 |
 | ~~Crowdsourcing Speech Quality Assessment for Investigating Codec-Related Impairments~~ | Bachelor Thesis | Speech Signal Processing | J. S. | 2023 |
