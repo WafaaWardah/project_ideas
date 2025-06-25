@@ -3,7 +3,7 @@
 Areas: 
 
 
-Machine learning, Deep learning, AI, Explainable AI (XAI), Speech signal processing, Speech quality perception, and biometric recognition tasks
+Machine learning, Deep learning, Speech signal processing, Speech quality perception, and Biometric recognition
 
 
 Competencies:
@@ -15,11 +15,8 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 
 | Title | Scope | Competencies | Availability | Date |
 |-------------| -----|-------------| -----| -----|
-| Data Collection and Dimension Identification for Quality Assessment of Machine-Processed Speech| Master Thesis | Speech Signal Processing, ML, Subjective Test | Available | Sept 2024 |
-| Effect of languages on speech quality prediction models| Bachelor Thesis | Speech Signal Processing | Available | Aug 2024 |
-| Comparing objective and subjective (Crowdsourced) Speech Quality Ratings| Bachelor Thesis | Speech Signal Processing | Available | Aug 2024 |
-| Speech Quality Prediction with Deep Learning | Advanced Projects | Python (PyTorch), Speech Signal Processing | Available | Aug 2024 |
-| Verifying reliability of a Database Generation Tool used for simulating audio signal degradations| Bachelor, Master, Projekt Medienerstellung | Matlab, Speech Signal Processing | Available | Aug 2024 |
+| ~~Data Collection and Dimension Identification for Quality Assessment of Machine-Processed Speech~~| Master Thesis | Speech Signal Processing, ML, Subjective Test | B. B. | Sept 2024 |
+| ~~Effect of languages on speech quality prediction models~~| Bachelor Thesis | Speech Signal Processing | W. W. | Aug 2024 |
 | ~~[Subjective Listening Only Test for Speech Quality Database Creation](https://github.com/WafaaWardah/SLOTest_2023)~~ | Advanced Projects, ITU-T | Subjective Testing, Speech Signal Processing | Group of 6 | Oct 2023 |
 | ~~[Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions](https://github.com/WafaaWardah/dissecting_speech_quality_dimensions)~~| DAGA | Speech Signal Processing | W. W. | Oct 2023 |
 | ~~[Developing Python Front-end for a MatLab Database Generation Tool](https://github.com/WafaaWardah/PyGUI-DB)~~ | Bachelor | Python, Speech Signal Processing | E. N. | Nov 2023 |
