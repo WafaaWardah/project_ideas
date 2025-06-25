@@ -18,7 +18,7 @@ Here is a list of project ideas offered by [Wafaa Wardah](https://www.tu.berlin/
 | Influence of the Lombard Effect in Speech Quality Assessment| Bachelor/Master Thesis | Speech Signal Processing, ML, Subjective Test | Available | June 2025 |
 | Does Subjective Speech Quality Map Well Across Languages?| Bachelor/Master Thesis | ML, Subjective Test | Available | June 2025 |
 | On Diversifying Training Data for ML-Based Speech Quality Models with Objective Quality Labels | Bachelor/Master Thesis | ML | Available | June 2025 |
-| ~~Data Collection and Dimension Identification for Quality Assessment of Machine-Processed Speech~~| Master Thesis | Speech Signal Processing, ML, Subjective Test | B. B. | Sept 2024 |
+| ~~Data Collection and Dimension Identification for Quality Assessment of Machine-Processed Speech~~| Master Thesis | Speech Signal Processing, ML, Subjective Test | B. B. | 2024 - 2025 |
 | ~~Effect of languages on speech quality prediction models~~| Bachelor Thesis | Speech Signal Processing | W. W. | Aug 2024 |
 | ~~[Subjective Listening Only Test for Speech Quality Database Creation](https://github.com/WafaaWardah/SLOTest_2023)~~ | Advanced Projects, ITU-T | Subjective Testing, Speech Signal Processing | Group of 6 | Oct 2023 |
 | ~~[Dissecting Speech Quality: Investigating the Interplay between Overall Quality and Dimensional Perceptions](https://github.com/WafaaWardah/dissecting_speech_quality_dimensions)~~| DAGA | Speech Signal Processing | W. W. | Oct 2023 |
